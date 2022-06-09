@@ -1,0 +1,144 @@
+# Fraud Core Concepts
+
+## 1. Fraud #Fraud
+#DEF Fraud is an **uncommon, well-considered, imperceptibly concealed, time-evolving** and often **carefully organized** <u>crime</u> which appears in many types of forms.
+
+**Fraud** is a ==*social phenomenon*.==
+
+### 1.1 Characteristics
+- **Uncommon**: Only a **minority** of cases concerns fraud, of which only a **limited** number will be **known** to concern fraud.
+	Because it is <u>uncommon</u> is **makes difficult**:
+	- **Detect fraud**: fraudulent cases are covered by the
+	legitimate ones.
+	- **Learn from historical cases**, since only few examples
+	are available.
+- **Well-considered and imperceptibly concealed**
+	**Fraudsters** try to remain <u>unnoticed and covered</u>.
+	- Blend in frauds.
+	- Not behave different from non-fraudsters.
+	
+	**Fraudsters** hide very well by <u>well-considering</u> and
+	<u>planning</u> how to precisely commit fraud.
+	- Frauds are <u>not impulsive and unplanned</u>.
+- **Time evolving**
+	Fraudsters adapt and refine their methods to remain undetected.
+	Fraud-detection systems improve and learn by example.
+
+		Fraudsters techniques evolve in time along with, or better ahead of fraud-detection mechanisms.
+- **Carefully organized crime**
+	Fraudsters
+	- Do **not** operate **independently**
+	- Involve **complex** and **organized structures**
+
+	<u>Fraud = not an isolated event</u>
+
+	To detect fraud the **context should be taken into account**.
+
+### 1.2 Why do people commit fraud? #FraudTriangle
+The <u>basic driver for commiting fraud</u>: **potential monetary gain or benefit.**
+
+![[fraud_triangle.png|250]] 
+**Fraud Triangle**: 
+Basic conceptual model that presents the factors that explains the drivers for an individual to commit fraud.
+
+### 1.3 Categories #Categories
+- Banking and credit card fraud.
+- Insurance fraud.
+- Corruption.
+- Counterfeit.
+- Product warranty fraud.
+- Healthcare fraud.
+- Telecommunications fraud.
+- Money laundering.
+- Click fraud.
+- Identity theft.
+- Tax evasion.
+- Plagiarism.
+
+#### 1.3.1 Banking and credit card fraud #BankingFraud
+#DEF **Unauthorized taking of another’s credit.**
+1. **Application fraud**: Obtaining new credit cards from issuing companies by using **false PII** (personally identifiable information), and then <u>spending as much as possible in a short space of time</u>.
+2. **Behavioral fraud**: <u>details of legitimate cards are obtained fraudulently</u>. It does not necessarily require **stealing** the physical card, but only **credentials**.
+
+#### 1.3.2 Insurance fraud #InsuranceFraud
+#DEF **Fraud related to any type of insurance.**
+
+Two sides of an <u>insurance contract</u>:
+- From the **side of the seller**:
+	- Selling policies from *nonexistent companies*.
+	- Churning policies to *create more commissions*.
+- From the **side of the buyer**:
+	- Exaggerated claims (*property*).
+	- Falsified medical history (*health*).
+	- Postdated policies, faked death, kidnapping or murder (*life*).
+	- Faked damage (*automobile*).
+
+#### 1.3.3 Corruption #Corruption
+#DEF **The misuse of entrusted power for private gain.**
+
+#### 1.3.4 Counterfeit #Counterfeit
+#DEF **An imitation intended to be passed off fraudulently or deceptively as genuine.**
+
+Counterfeit typically <u>concerns valuable objects</u>:
+- Credit cards
+- Identity cards
+- Popular products
+- Money
+
+#### 1.3.4 Product warranty fraud #Warranty
+**Product warranty**:
+- Type of guarantee that a manufacturer makes regarding the condition of its product.
+- Terms in which repairs or exchanges will be made in theevent that the product does not function as originally described or intended.
+
+**Fraudulently** claiming <u>compensation or remuneration</u> based on a product warranty.
+
+#### 1.3.5 Healthcare fraud #Healthcare
+#DEF **Filing of dishonest healthcare claims to make profit.**
+
+#### 1.3.6 Telecommunications fraud #Telecommunications
+#DEF **Theft or use of telecommunication services to commit other forms of fraud.**
+
+**Cloning fraud**: the cloning of a phone number and the related call credit by a fraudster.
+**Superimposition fraud**: fraudulent usage is added to the legitimate usage of an account.
+
+#### 1.3.7 Money laundering #Moneylaundering
+#DEF **Taking the proceeds of criminal activity and making them appear legal.**
+
+Allows criminals to *transform **illegally obtained gain** into seemingly legitimate funds*.
+It is a **worldwide problem**, with an estimated $300 billion gain in the United States.
+
+#### 1.3.8 Click fraud #Clickfraud
+#DEF **Illegal clicks on a website’s click-through advertisements to increase the payable number of clicks to the advertiser.**
+
+The *illegal clicks* could either be performed by:
+- **Manually**
+- **Automated**
+
+#### 1.3.9 Identity theft #Identitytheft
+#DEF **Obtaining the personal or financial information of another person for the purpose of assuming that person’s identity to make transactions or purchases.**
+
+- Sift through trash bins <u>looking for bank account and credit card statements</u>.
+- <u>Accessing databases</u> to steal lists of customer information.
+
+#### 1.3.10 Tax evasion #Taxevasion
+#DEF **Illegal act or practice of failing to pay taxes that are owed.**
+
+Example:  Knowingly not reporting or underreporting income
+
+#### 1.3.11 Plagiarism #Plagiarism
+#DEF **Steal and pass off the ideas or words of another as own.**
+
+- <u>Steal and pass</u> off the ideas or words of another as own.
+- To commit literary <u>theft</u>.
+- To present as <u>new and original</u> an idea or product <u>derived from an existing source</u>.
+
+It involves both **stealing** someone else’s work and **lying** about it afterward.
+
+### 1.4 Frauds Impact #Impact
+- A typical organization loses <u>5 percent of its revenues to fraud each year</u> (www.acfe.com).
+- The total <u>cost of insurance fraud</u> (non–health insurance) in the United States is estimated to be <u>more than $40 billion per year</u> (www.fbi.gov).
+- Fraud is costing the United Kingdom <u>£73 billion a year</u> (National Fraud Authority).
+- Credit card companies “lose approximately seven cents per every hundred dollars of transactions due to fraud”.
+
+**Need to invest into up-to-date defense infrastructures.**
+

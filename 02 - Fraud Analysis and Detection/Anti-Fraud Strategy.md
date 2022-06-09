@@ -19,4 +19,3 @@ PSD2 is a european regulatory requirement designed to:
 
 
 ##### 1.2 Fraud Detection vs Fraud Prevention
-

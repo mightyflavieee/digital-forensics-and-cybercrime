@@ -26,7 +26,7 @@
 
 		Fraudsters techniques evolve in time along with, or better ahead of fraud-detection mechanisms.
 - **Carefully organized crime**
-	Fraudsters
+	Fraudsters:
 	- Do **not** operate **independently**
 	- Involve **complex** and **organized structures**
 
@@ -42,18 +42,18 @@ The <u>basic driver for commiting fraud</u>: **potential monetary gain or benefi
 Basic conceptual model that presents the factors that explains the drivers for an individual to commit fraud.
 
 ### 1.3 Categories #Categories
-- Banking and credit card fraud.
-- Insurance fraud.
-- Corruption.
-- Counterfeit.
-- Product warranty fraud.
-- Healthcare fraud.
-- Telecommunications fraud.
-- Money laundering.
-- Click fraud.
-- Identity theft.
-- Tax evasion.
-- Plagiarism.
+- [[#1 3 1 Banking and credit card fraud BankingFraud |Banking and credit card fraud.]]
+- [[#1 3 2 Insurance fraud InsuranceFraud |Insurance fraud.]]
+- [[#1 3 3 Corruption Corruption | Corruption.]]
+- [[#1 3 4 Counterfeit Counterfeit |Counterfeit.]]
+- [[#1 3 4 Product warranty fraud Warranty |Product warranty fraud.]]
+- [[#1 3 5 Healthcare fraud Healthcare |Healthcare fraud.]]
+- [[#1 3 6 Telecommunications fraud Telecommunications |Telecommunications fraud.]]
+- [[#1 3 7 Money laundering Moneylaundering |Money laundering.]]
+- [[#1 3 8 Click fraud Clickfraud |Click fraud.]]
+- [[#1 3 9 Identity theft Identitytheft |Identity theft.]]
+- [[#1 3 10 Tax evasion Taxevasion |Tax evasion.]]
+- [[#1 3 11 Plagiarism Plagiarism |Plagiarism.]]
 
 #### 1.3.1 Banking and credit card fraud #BankingFraud
 #DEF **Unauthorized taking of another’s credit.**
@@ -142,3 +142,5 @@ It involves both **stealing** someone else’s work and **lying** about it after
 
 **Need to invest into up-to-date defense infrastructures.**
 
+---
+Next chapter: [[Anti-Fraud Strategy]]

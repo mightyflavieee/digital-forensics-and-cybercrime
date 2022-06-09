@@ -60,7 +60,7 @@ Basic conceptual model that presents the factors that explains the drivers for a
 - Tax evasion.
 - Plagiarism.
 
-#### Banking and credit card fraud
+#### Banking and credit card fraud #BankingFraud
 ---
 
 

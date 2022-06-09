@@ -1,7 +1,8 @@
 # Anti-Fraud Strategy
-### 1. Fraud Detection and Prevention Systems
+### 1. Fraud Detection and Prevention Systems #AntiFraud
 This systems serve to hinder as much as possible fraudsters and other criminals.
-- #DEF **Fraud Detection**: we try to recognize or discover fraudulent activities (also called *ex-post approach*, after the fact has happened);
+- #DEF **Fraud Detection**: we try to recognize or discover fraudulent activities (also called *ex-post approach*, after the fact has happened).
+
 - #DEF **Fraud Prevention**:  we try to entirely avoid or reduce fraud (also called *ex-ante approach*, before the fact has happend).
 
 ##### 1.1 Fraud Prevention Examples

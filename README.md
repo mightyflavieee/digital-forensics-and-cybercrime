@@ -1,4 +1,4 @@
-# Digital Forensics and Cybercrime
+# Digital Forensics and Cybercrime Summaries
 ## Intro 💬
 This repository contains summaries from the course *Digital Forensics and Cybercrime*, academic year 2021/2022.
 

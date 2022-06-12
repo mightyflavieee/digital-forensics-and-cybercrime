@@ -1,7 +1,6 @@
-# Cybercrime
+# 1. Cybercrime
 
-## Risk
---- 
+## 1.1 Risk
 **What is Risk?** #Risk 
 **Risk** is a ==statistical and economical evaluation== of the <u>exposure to damage</u> because of the ==presence of vulnerabilities and threats==.
 
@@ -10,8 +9,7 @@
 **What is security?** #Security
 **Security**: Managing <u>risk vs costs</u>
 
-## Threats 
---- 
+## 1.2 Threats 
 We can identify ==3 dimensions== for **threats**: #Threats
 - <u>Internal</u> vs *<u>external</u>*
 - <u>Generic</u> vs <u>targeted</u>
@@ -39,7 +37,7 @@ Demonstrate | Organized groups | Critical infrastractures
 &nbsp; | &nbsp; | Espionage
 &nbsp; | &nbsp; | States as new actor
 
-### Financially oriented attacks #FinanciallyMotivated
+### 1.2.1 Financially oriented attacks #FinanciallyMotivated
 ---
 - The attackers are now interested in **monetizing** their attacks
 - **Direct** monetization
@@ -69,7 +67,7 @@ Demonstrate | Organized groups | Critical infrastractures
 ##### Drive-by download
 ---
 ![[Drive-by download.png]]
-## The cybercrime ecosystem
+## 1.3 The cybercrime ecosystem
 ---
 There are organized groups and various activities:
 - Exploit development and procurement
